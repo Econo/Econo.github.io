@@ -459,7 +459,7 @@ h3.agile_tittle.two {
 }
 
 .progress-bar {
-    background-color: #191919;
+    background-color:#16240b;
 }
 
 .bar-grids h6 {
@@ -505,7 +505,7 @@ h3.heading:after {
 
 /*--  services --*/
 .services {
-    background: #191919;
+    background: #16240b;
 }
 .service-grids {
     margin-top: 5em;
@@ -560,26 +560,26 @@ h3.heading:after {
     letter-spacing: .5px;
     font-size: 15px;
     color: #666;
-    border-left: 3px solid #333;
+    border-left: 3px solid #1b2910;
     padding-left: 3em;
 }
 .exp {
     text-align: right;
     padding-right: 3em;
-     background: #222;
+     background: #16240b;
 }
 .exp-grid1 p {
     line-height: 28px;
     letter-spacing: .5px;
     font-size: 15px;
     color: #666;
-    border-right: 3px solid #333;
+    border-right: 3px solid #1b2910;
     padding-right: 3em;
     text-align: right;
 }
 .exp1 {
     padding-left: 3em;
-     background: #222;
+     background: #16240b;
 }
 /*-- //experience --*/
 
@@ -848,7 +848,7 @@ label {
 
 /*-- footer --*/
 footer {
-    background: #191919;
+    background: #16240b;
 }
 .social ul li {
     display: inline-block;
